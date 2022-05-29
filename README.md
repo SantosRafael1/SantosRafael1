@@ -1,12 +1,14 @@
 - 👋 Olá, me chamo Rafael
 - 🌱 Atualmente estou aprendendo programação com Kotlin para desenvolver para android
 - 📫 Como me alcançar:<br/>
+<div style="display:inline;">
 <a href="Rafael: contactrafaelsantos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rafael-santos-03741b219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</div>
 
 # Linguagens
 <div style="display:inline;">
@@ -17,10 +19,10 @@
 </div>
 <hr/>
 
-<div style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark" align="left" style="margin:10px; display:inline-flex"/>
+<div style="display:inline;">
+<img src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark" align="left" style="margin:10px; width:300px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact" style="margin:10px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact" style="margin:10px; width:300px" />
 </div>
 
 
