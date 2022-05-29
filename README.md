@@ -2,7 +2,7 @@
 - 🌱 Atualmente estou aprendendo programação com Kotlin para desenvolver para android
 - 📫 Como me alcançar:<br/>
 <div style="display:inline;">
-<a href="Rafael: contactrafaelsantos@gmail.com">
+<a href="mailto:contactrafaelsantos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rafael-santos-03741b219/">
