@@ -20,7 +20,7 @@
 <hr/>
 
 <div style="display:inline;">
-<img src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark" align="left" style="margin:10px; width:300px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark" align="left" style="margin:10px; width:350px"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact" style="margin:10px; width:300px" />
 </div>
