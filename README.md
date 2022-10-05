@@ -34,13 +34,17 @@
 
 <br>
 
-# Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark"/>
+# 
 
-# Linguagens de programação mais usadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact"/>
+<div style="display:flex;flex-direction:row; flex-wrap:wrap;">
 
+<img style="margin:10px" width="430" src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark"/>
 
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact&langs_count=10"/>
+
+</div>
+
+#
 
 <!--[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
