@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Rafael
-- 🌱 Migrando do mobile para web
+- 🌱 Crio coisas com tecnologia
 - 📫 Como me alcançar:<br/>
 <div style="display:flex; flex-direction:row; ">
 <a href="mailto:contactrafaelsantos@gmail.com">
