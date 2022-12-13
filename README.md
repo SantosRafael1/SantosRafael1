@@ -40,7 +40,7 @@
 
 <img style="margin:10px" width="430" src="https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark"/>
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact&langs_count=10"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantosRafael1&layout=compact&langs_count=15"/>
 
 </div>
 
