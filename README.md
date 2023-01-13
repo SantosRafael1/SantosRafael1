@@ -42,6 +42,7 @@
 </div>
 
 #
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSantosRafael1&labelColor=%2337d67a&countColor=%23555555)
 
 <!--[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosRafael1&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
